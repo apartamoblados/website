@@ -1,10 +1,10 @@
 {
   "development": {
-    "apiUrl": "https://gatsby.ghost.io",
-    "contentApiKey": "9cc5c67c358edfdd81455149d0"
+    "apiUrl": "https://pruebainmobiliaria.herokuapp.com",
+    "contentApiKey": "fd14a5c2f18446c7e9092b9609"
   },
   "production": {
-    "apiUrl": "https://gatsby.ghost.io",
-    "contentApiKey": "9cc5c67c358edfdd81455149d0"
+    "apiUrl": "https://pruebainmobiliaria.herokuapp.com",
+    "contentApiKey": "fd14a5c2f18446c7e9092b9609"
   }
 }
