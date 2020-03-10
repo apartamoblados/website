@@ -1,10 +1,10 @@
 {
   "development": {
-    "apiUrl": "https://pruebainmobiliaria.herokuapp.com",
-    "contentApiKey": "fd14a5c2f18446c7e9092b9609"
+    "apiUrl": "https://apartamobladosinn.herokuapp.com",
+    "contentApiKey": "29c01828fb951802be0d8d305f"
   },
   "production": {
-    "apiUrl": "https://pruebainmobiliaria.herokuapp.com",
-    "contentApiKey": "fd14a5c2f18446c7e9092b9609"
+    "apiUrl": "https://apartamobladosinn.herokuapp.com",
+    "contentApiKey": "29c01828fb951802be0d8d305f"
   }
 }
