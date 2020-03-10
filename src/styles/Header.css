@@ -1,0 +1,37 @@
+.header {
+    width: 100%;
+    padding: 16px;
+}
+
+.header__sup {
+    display: flex;
+    justify-content: center;
+}
+
+.header__logo {
+    height: 50px;
+}
+
+.header__social {
+    display: none;
+}
+
+.header__social__link {
+    margin-left: 16px;
+}
+
+.header__social__icon {
+    height: 20px;
+}
+
+@media only screen and (min-width: 720px) {
+    .header {
+        padding: 16px 80px;
+    }
+    .header__sup {
+        justify-content: space-between;
+    }
+    .header__social {
+        display: block;
+    }
+}
