@@ -1,10 +1,10 @@
 {
   "development": {
     "apiUrl": "https://apartamobladosinn.herokuapp.com",
-    "contentApiKey": "29c01828fb951802be0d8d305f"
+    "contentApiKey": "bfccad02f8a2c7515e0d880c9a"
   },
   "production": {
     "apiUrl": "https://apartamobladosinn.herokuapp.com",
-    "contentApiKey": "29c01828fb951802be0d8d305f"
+    "contentApiKey": "bfccad02f8a2c7515e0d880c9a"
   }
 }
