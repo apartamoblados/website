@@ -43,7 +43,7 @@ const DefaultLayout = ({ data, children, bodyClass, isHome }) => {
                 </div>
 
                 <div className="viewport-bottom">
-                    {/* The footer at the very bottom of the screen */}
+                    {/* The footer at the very bottom of the screen 
                     <footer className="site-foot">
                         <div className="site-foot-nav container">
                             <div className="site-foot-nav-left">
@@ -54,6 +54,7 @@ const DefaultLayout = ({ data, children, bodyClass, isHome }) => {
                             </div>
                         </div>
                     </footer>
+                    */}
 
                 </div>
             </div>

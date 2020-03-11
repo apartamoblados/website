@@ -7,10 +7,9 @@
 }
 
 .navigation__link {
-    width: 100px;
     text-align: center;
     color: #fff;
-    padding: 8px 16px;
+    padding: 10px 16px;
     display: block;
     text-decoration: none;
     transition: all 0.3s ease;
@@ -41,6 +40,24 @@
 .navigation__tags__dropdown .navigation__link:hover {
     color: white;
     background-color: rgba(66, 99, 132, 1);
+}
+
+.navigation__login {
+    margin: 4px 16px;
+    margin-left: auto;
+    text-align: center;
+    color: #fff;
+    border: solid #fff 2px;
+    padding: 4px 16px;
+    border-radius: 8px;
+    display: block;
+    text-decoration: none;
+    transition: all 0.3s ease;
+}
+
+.navigation__login:hover {
+    text-decoration: none;
+    background-color: rgba(255, 255, 255, 0.3);
 }
 
 .movil-navigation {
@@ -102,7 +119,7 @@
 }
 
 .navigation__tags--show {
-    height: 300px;
+    height: auto;
 }
 
 .menu-modal__close {

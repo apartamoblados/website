@@ -48,6 +48,7 @@ const Navigation = ({ data }) => {
                     </div>
                 </div>
                 {rest}
+                <a className="navigation__login" href="https://apartamobladosinn.herokuapp.com/ghost" target="_blank" rel="noopener noreferrer">Login</a>
             </div>
             <div className="movil-navigation" onClick={() => setShowModal(true)}>
                 <div className="movil-navigation__line" />
@@ -67,6 +68,7 @@ const Navigation = ({ data }) => {
                     {tags}
                 </div>
                 {rest}
+                <a className="navigation__link" href="https://apartamobladosinn.herokuapp.com/ghost" target="_blank" rel="noopener noreferrer">Login</a>
             </div>
         </>
     )
